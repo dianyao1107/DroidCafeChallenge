@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="label_spinner" type="id">layout.simple_spinner_item</item>
+</resources>
